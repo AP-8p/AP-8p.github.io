@@ -1,8 +1,54 @@
 
 
 h2{
-    color:rgb(0, 162, 255)
+    color:#094467
 }
 body{
-    background-color: rgb(12, 215, 147);
+    background-color: rgb(255, 255, 255);
+}
+
+h1{
+    color: rgb(60, 183, 255);
+}
+
+#indexp{color: rgb(60, 183, 255);
+
+}
+
+#pic1{ 
+    width:100px;
+    height:150px;
+    float:right;
+    margin-right: 300px;
+    margin-bottom:300px;
+    
+
+}
+#pic2{ 
+    width:100px;
+    height:200px;
+    float:right;
+    margin-right: -200px;
+   
+
+}
+#travel1{ 
+    width:100px;
+    height:150px;
+    float:right;
+    margin-right: 300px;
+}
+#fenWay{ 
+    width:100px;
+    height:150px;
+    float:right;
+    margin-right: -200px;
+    
+}
+#underbanner{
+    width: 60%;
+
+}
+#mybackground1{
+    background-image: "mybackground.jpg";
 }
